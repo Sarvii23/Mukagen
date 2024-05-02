@@ -49,3 +49,10 @@ To address class imbalance issues, particularly the majority class problem, we u
 Given the extensive datasets, feature engineering emerged as a critical component in extracting meaningful insights and enhancing model performance. This prompted exploration of various feature selection and extraction techniques.
 
 From implementing machine learning algorithms such as LG Boost to fine-tuning parameters and evaluating performance metrics, I developed proficiency in model development and assessment. This enabled informed decision-making based on result interpretation, aligned with the business requirements of Home Credit.
+
+## Attachments
+**[EDA Notebook](https://github.com/Sarvii23/Mukagen/blob/main/EDA_Capstone_MSBA.ipynb)**
+
+**[Modeling Notebook](https://github.com/Sarvii23/Mukagen/blob/main/Modelling_Capstone_MSBA.ipynb)**
+
+**[Presentation](https://github.com/Sarvii23/Mukagen/blob/main/Capstone%202024-%20Group%207%20.pptx)**
